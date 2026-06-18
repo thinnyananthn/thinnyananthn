@@ -1,97 +1,87 @@
 # Hi there 👋, I'm Thinn Yananth Nwe
 
-💻 Passionate IT Student & Full Stack Developer from Myanmar
+💻 IT Graduate | Full Stack Developer | ITPEC IP & FE Certified
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate and versatile IT enthusiast with experience in both frontend and backend development. I have successfully passed the ITPEC IP and FE examinations and continuously strive to improve my technical knowledge and problem-solving abilities.
+I am a passionate IT professional with strong knowledge of frontend and backend development. I have completed my Diploma in Information Technology and successfully passed the ITPEC IP and FE examinations. I enjoy building web applications and continuously improving my software development skills.
 
-- 🎓 Distance Education Student (E-Major) at Magway University
-- 📚 Studying Diploma in English
-- 🏆 ITPEC Certified (IP & FE)
-- 🌱 Currently learning Java Enterprise Edition (J2EE)
-- 💡 Interested in Web Development, Software Engineering, and Database Systems
+- 🎓 Diploma in Information Technology
+- 🏆 ITPEC IP & FE Certified
+- 💻 Full Stack Web Developer
+- 🌱 Currently expanding my knowledge in Enterprise Application Development
+- 🚀 Interested in Software Engineering, Web Development, and Database Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
+### Languages
+- Java
+- PHP
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
 
-### Backend
-- PHP
-- Java (J2SE)
-- Java (J2EE - Learning)
+### Frameworks & Technologies
+- J2EE
+- JDBC
+- Servlet & JSP
+- Swing
 
 ### Database
 - MySQL
 
-### Tools & Others
+### Tools
 - Git & GitHub
 - MS Office
-- Slide Presentation
-- English & Japanese
+- VS Code
+- NetBeans / Eclipse
+- laragon
+- xampp
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🩸 Myittar Shin Blood Donation System
-**Full Stack J2EE Web Application**
+Full Stack J2EE Web Application
 
-- Powerful CRUD Operations
-- QR Scan Feature
+- User & Admin Management
+- QR Code Scanning
 - Certificate Download System
-- Admin & User Management
+- Advanced CRUD Operations
 
 **Tech Stack:** Java (J2EE), MySQL
 
 ---
 
 ### 🏪 G&G POS System
-**Desktop Application**
+Desktop Point of Sale System
 
-- Point of Sale Management System
+- Product Management
+- Sales Processing
 - User-Friendly GUI
-- Process Management Features
 
-**Tech Stack:** Java (J2SE), Swing
+**Tech Stack:** Java (J2SE)
 
 ---
 
 ### 📸 Moments Studio
-**PHP Web Application**
+PHP Web Application
 
-- Backend-focused Development
 - CRUD Operations
-- User & Admin Management
+- Admin Dashboard
+- Database Management
 
-**Tech Stack:** PHP, MySQL, HTML, CSS
-
----
-
-### 🦑 Echoes of the Squid Game
-**Responsive Website**
-
-- Informational Website
-- Responsive Design
-- Image Integration
-
-**Tech Stack:** HTML, CSS
+**Tech Stack:** PHP, MySQL, HTML, CSS, Bootstrap
 
 ---
 
-### ✂️ Rock Paper Scissors Game
-**JavaScript Web Application**
-
-- Interactive Gameplay
-- Sound Effects
-- Responsive User Interface
+### 🎮 Rock Paper Scissors Game
+Interactive Web Game
 
 **Tech Stack:** JavaScript, HTML, CSS
 
@@ -99,29 +89,34 @@ I am a passionate and versatile IT enthusiast with experience in both frontend a
 
 ## 🏆 Certifications
 
-- ITPEC IP Certified
-- ITPEC FE Certified
+- ITPEC IP (Information Technology Passport)
+- ITPEC FE (Fundamental Information Technology Engineer)
 
 ---
 
-## 📈 Current Learning Goals
+## 🌐 Language Skills
 
-- Java Enterprise Development (J2EE)
-- Spring Framework
-- REST APIs
-- Advanced Database Design
-- Software Architecture
+| Language | Proficiency |
+|-----------|-------------|
+| 🇲🇲 Myanmar | Native |
+| 🇬🇧 English | Intermediate |
+| 🇯🇵 Japanese | Intermediate |
+| 🇰🇷 Korean | Basic |
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Contact
 
 📧 Email: thinnyananthnwe24@gmail.com
 
 ---
 
-### 💡 Motto
-
-> "Continuous learning and consistent improvement lead to great achievements."
-
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Always learning, building, and improving.
